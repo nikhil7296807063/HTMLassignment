@@ -1,0 +1,102 @@
+
+.divpaid
+{
+	border-style:solid;
+    width: 35%; 
+    margin-left: auto; 
+	margin-right: 10px;
+}
+.divreq
+{
+	border-style:solid;
+    width: 35%;
+    margin-left: auto; 
+	margin-right: 10px;
+    
+}
+.divrec
+{
+	border-style:solid;
+    width: 35%;
+	margin-right: auto; 
+	margin-left: 10px;
+    
+
+}
+.divreqrec
+{
+	border-style:solid;
+    width: 35%;
+	margin-right: auto; 
+	margin-left: 10px;
+}
+.topnav 
+{
+  background-color: white;
+  overflow: hidden;
+  border-style: solid;
+}
+.topnav a 
+{
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.divpaid h1
+{
+	margin-top: 0px;
+	margin-left: 10px;
+	 white-space: pre;
+}
+.divreq h1
+{
+	margin-top: 0px;
+	margin-left: 10px;
+	 white-space: pre;
+}
+.divrec h1
+{
+	margin-top: 0px;
+	margin-left: 10px;
+	 white-space: pre;
+}
+.divreqrec h1
+{
+	margin-top: 0px;
+	margin-left: 10px;
+	 white-space: pre;
+}
+.divpaid p
+{
+	margin-top: 0px;
+	margin-left: 10px;
+	white-space: pre;
+}
+.divrec p
+{
+	margin-top: 0px;
+	margin-left: 10px;
+	white-space: pre;
+}
+
+.divreq button
+{   margin-bottom: 10px;
+	margin-left: 20px;
+	background-color: white;
+	margin-top: 10px;
+	width: 130px;
+	height: 30px;
+
+}
+.divreqrec button
+{   margin-bottom: 10px;
+	margin-left: 20px;
+	background-color: white;
+	margin-top: 10px;
+	width: 130px;
+	height: 30px;
+
+}
